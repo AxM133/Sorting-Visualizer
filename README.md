@@ -11,6 +11,9 @@
 
 A modern, interactive web application to visualize sorting algorithms in real-time. Built with **React** and styled with a **Cyberpunk/Neon** aesthetic. The project features a "Stealth Mode" design where elements glow only when active, providing a satisfying and clear visualization of the sorting process.
 
+### 🔗 Live Demo
+Check out the live version here: [View Sorting Visualizer](https://sorting-visualizer-beta-beryl.vercel.app/)
+
 ### ✨ Features
 
 * **3 Major Algorithms:** Bubble Sort, Quick Sort, and Merge Sort.
@@ -53,6 +56,9 @@ A modern, interactive web application to visualize sorting algorithms in real-ti
 ## 🇷🇺 Русский
 
 Современное веб-приложение для визуализации алгоритмов сортировки в реальном времени. Написано на **React** в стиле **Cyberpunk/Neon**. Проект использует дизайн "Stealth Mode": неактивные элементы затемнены, а активные операции подсвечиваются ярким неоном, создавая понятную и красивую картину процесса.
+
+### 🔗 Живое Демо
+Посмотреть проект вживую можно здесь: [Открыть Визуализатор](https://sorting-visualizer-beta-beryl.vercel.app/)
 
 ### ✨ Возможности
 
