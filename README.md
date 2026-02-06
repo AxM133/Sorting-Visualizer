@@ -36,19 +36,19 @@ A modern, interactive web application to visualize sorting algorithms in real-ti
 ### 🚀 Getting Started
 
 1. Clone the repository:
-
+    ```
     git clone https://github.com/AxM133/Sorting-Visualizer.git
 
 2. Navigate to the project folder:
-
+    ```
     cd sorting-visualizer
-
+    
 3. Install dependencies:
-
+    ```
     npm install
 
 4. Run the app:
-
+    ```
     npm run dev
 
 ---
@@ -83,19 +83,19 @@ A modern, interactive web application to visualize sorting algorithms in real-ti
 ### 🚀 Запуск проекта
 
 1. Клонируйте репозиторий:
-
+    ```
     git clone https://github.com/AxM133/Sorting-Visualizer.git
 
 2. Перейдите в папку проекта:
-
+    ```
     cd sorting-visualizer
 
 3. Установите зависимости:
-
+    ```
     npm install
 
 4. Запустите приложение:
-
+    ```
     npm run dev
 
 ---
