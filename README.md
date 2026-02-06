@@ -1,16 +1,108 @@
-# React + Vite
+# Sorting Visualizer ⚡ / Визуализатор Алгоритмов
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![sorting-visualizer](https://github.com/user-attachments/assets/ef741cb8-b9a1-406f-8c2a-8452a99f229d)
 
-Currently, two official plugins are available:
+[English](#english) | [Русский](#russian)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+<a name="english"></a>
+## 🇬🇧 English
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+A modern, interactive web application to visualize sorting algorithms in real-time. Built with **React** and styled with a **Cyberpunk/Neon** aesthetic. The project features a "Stealth Mode" design where elements glow only when active, providing a satisfying and clear visualization of the sorting process.
 
-## Expanding the ESLint configuration
+### ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **3 Major Algorithms:** Bubble Sort, Quick Sort, and Merge Sort.
+* **Neon UI/UX:** "Stealth Mode" design — dark inactive elements, bright neon active states.
+* **Interactive Controls:** Real-time adjustment of sorting speed and array size.
+* **Educational Info Panel:** Dynamic descriptions, complexity analysis (Big O), and color legends for each algorithm.
+* **Mobile Responsive:** Fully functional on different screen sizes.
+* **Audio/Visual Sync:** Optimized animations to prevent lag on high speeds.
+
+### 🎨 Color Legend
+
+* **Dark Grey:** Idle / Waiting
+* **Yellow:** Active comparison / Swapping
+* **Purple:** Pivot element (Quick Sort)
+* **Neon Green:** Sorted / Completed
+
+### 🛠 Tech Stack
+
+* React.js (Hooks: useState, useEffect, useRef)
+* CSS3 (Variables, Flexbox, Grid, Glassmorphism)
+* Git / GitHub
+
+### 🚀 Getting Started
+
+1. Clone the repository:
+
+    git clone https://github.com/AxM133/Sorting-Visualizer.git
+
+2. Navigate to the project folder:
+
+    cd sorting-visualizer
+
+3. Install dependencies:
+
+    npm install
+
+4. Run the app:
+
+    npm run dev
+
+---
+
+<a name="russian"></a>
+## 🇷🇺 Русский
+
+Современное веб-приложение для визуализации алгоритмов сортировки в реальном времени. Написано на **React** в стиле **Cyberpunk/Neon**. Проект использует дизайн "Stealth Mode": неактивные элементы затемнены, а активные операции подсвечиваются ярким неоном, создавая понятную и красивую картину процесса.
+
+### ✨ Возможности
+
+* **3 Алгоритма:** Пузырьковая (Bubble), Быстрая (Quick) и Сортировка Слиянием (Merge).
+* **Neon UI/UX:** Дизайн "Стелс-режим" — темный фон, яркие акценты.
+* **Интерактивное управление:** Настройка скорости и размера массива в реальном времени.
+* **Обучающая панель:** Динамическое описание алгоритмов, оценка сложности (Big O) и легенда цветов.
+* **Адаптивность:** Корректная работа на разных устройствах.
+* **Оптимизация:** Плавные анимации без лагов даже на высокой скорости.
+
+### 🎨 Легенда Цветов
+
+* **Темно-серый:** Ожидание
+* **Желтый:** Сравнение / Перестановка
+* **Фиолетовый:** Опорный элемент (Pivot в Quick Sort)
+* **Неоновый Зеленый:** Отсортировано / Готово
+
+### 🛠 Стек технологий
+
+* React.js (Хуки: useState, useEffect, useRef)
+* CSS3 (Переменные, Flexbox, Grid, Стекломорфизм)
+* Git / GitHub
+
+### 🚀 Запуск проекта
+
+1. Клонируйте репозиторий:
+
+    git clone https://github.com/AxM133/Sorting-Visualizer.git
+
+2. Перейдите в папку проекта:
+
+    cd sorting-visualizer
+
+3. Установите зависимости:
+
+    npm install
+
+4. Запустите приложение:
+
+    npm run dev
+
+---
+
+### 👨‍💻 Author
+
+**Azim (AxM133)**
+* GitHub: [@AxM133](https://github.com/AxM133)
+
+*v 1.0.0*
